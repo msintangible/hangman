@@ -1,3 +1,1 @@
 "# hangman" 
-"# hangman-project" 
-"# hangman" 
