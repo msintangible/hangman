@@ -1,0 +1,15 @@
+.root
+{
+   -fx-background-color: lightblue;
+   -fx-font-family: "Serif";
+   -fx-font-size: 12pt;
+}
+
+.label
+{ 
+    -fx-text-fill: red;
+   -fx-font-family: " sans Serif";
+   -fx-font-size: 16pt;
+}
+
+
